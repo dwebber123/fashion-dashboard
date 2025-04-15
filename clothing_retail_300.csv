@@ -1,0 +1,301 @@
+InvoiceNo,InvoiceDate,CustomerID,Gender,Country,Season,StockCode,Description,Category,Size,Color,Quantity,UnitPrice,LineTotal
+INV00001,2023-03-18,50021,Male,UK,Winter,C010,Coat,Outerwear,M,Navy,2,112.68,225.36
+INV00002,2023-08-22,50031,Male,Australia,Summer,C015,Cap,Accessories,XS,Black,2,94.98,189.96
+INV00003,2023-11-28,50045,Female,USA,Fall,C003,Blouse,Tops,XS,Beige,2,89.54,179.08
+INV00004,2023-09-20,50046,Male,USA,Summer,C010,Coat,Outerwear,M,Navy,3,118.44,355.32
+INV00005,2023-08-14,50046,Male,Canada,Summer,C012,Leggings,Activewear,XS,Navy,2,115.73,231.46
+INV00006,2023-03-27,50021,Male,USA,Winter,C002,Sweater,Tops,XL,Red,2,96.57,193.14
+INV00007,2023-06-08,50045,Female,USA,Spring,C003,Blouse,Tops,L,Red,1,103.8,103.8
+INV00008,2023-12-30,50043,Female,Germany,Fall,C006,Chinos,Bottoms,M,Green,1,101.62,101.62
+INV00009,2023-11-09,50022,Male,UK,Fall,C016,Beanie,Accessories,M,Black,3,98.19,294.57
+INV00010,2023-11-04,50006,Female,UK,Fall,C007,Shorts,Bottoms,XL,Black,1,113.96,113.96
+INV00011,2023-09-05,50008,Male,USA,Summer,C015,Cap,Accessories,XL,Beige,3,107.11,321.33
+INV00012,2023-07-03,50014,Female,USA,Summer,C017,Scarf,Accessories,S,Navy,1,30.22,30.22
+INV00013,2023-05-02,50028,Female,USA,Spring,C017,Scarf,Accessories,L,Beige,1,29.45,29.45
+INV00014,2023-03-18,50010,Female,USA,Winter,C006,Chinos,Bottoms,XS,Black,1,102.78,102.78
+INV00015,2023-07-19,50049,Female,Germany,Summer,C008,Skirt,Bottoms,S,Black,1,81.34,81.34
+INV00016,2023-03-27,50005,Female,USA,Winter,C003,Blouse,Tops,S,Beige,2,95.2,190.4
+INV00017,2023-07-06,50041,Female,UK,Summer,C005,Jeans,Bottoms,XL,Beige,2,68.16,136.32
+INV00018,2023-10-25,50029,Male,Germany,Fall,C015,Cap,Accessories,XL,Navy,2,89.35,178.7
+INV00019,2023-08-19,50020,Male,USA,Summer,C002,Sweater,Tops,XL,Beige,2,89.07,178.14
+INV00020,2023-10-27,50030,Female,Australia,Fall,C008,Skirt,Bottoms,L,Green,1,87.14,87.14
+INV00021,2023-11-12,50003,Male,UK,Fall,C001,T‑Shirt,Tops,XS,Beige,2,64.99,129.98
+INV00022,2023-12-05,50042,Female,USA,Fall,C011,Windbreaker,Outerwear,XS,Navy,2,18.68,37.36
+INV00023,2023-03-05,50004,Male,UK,Winter,C017,Scarf,Accessories,L,Red,1,28.68,28.68
+INV00024,2023-02-05,50031,Male,Australia,Winter,C010,Coat,Outerwear,XL,Beige,3,107.29,321.87
+INV00025,2023-03-19,50003,Male,USA,Winter,C001,T‑Shirt,Tops,S,Red,1,65.49,65.49
+INV00026,2023-10-16,50045,Female,Australia,Fall,C012,Leggings,Activewear,S,Beige,1,115.21,115.21
+INV00027,2023-04-28,50023,Male,USA,Spring,C013,Sports Bra,Activewear,M,Navy,3,44.76,134.28
+INV00028,2023-08-04,50043,Female,UK,Summer,C001,T‑Shirt,Tops,S,Beige,2,67.29,134.58
+INV00029,2023-06-11,50040,Male,UK,Spring,C013,Sports Bra,Activewear,M,White,2,44.54,89.08
+INV00030,2023-02-15,50004,Male,Australia,Winter,C014,Track Pants,Activewear,M,White,1,59.98,59.98
+INV00031,2023-04-27,50044,Male,UK,Spring,C017,Scarf,Accessories,M,Red,2,29.8,59.6
+INV00032,2023-02-15,50016,Female,Australia,Winter,C015,Cap,Accessories,XL,Green,1,91.56,91.56
+INV00033,2023-12-28,50013,Male,UK,Fall,C016,Beanie,Accessories,L,Green,1,92.66,92.66
+INV00034,2023-02-12,50045,Female,Germany,Winter,C011,Windbreaker,Outerwear,XL,Beige,2,18.72,37.44
+INV00035,2023-12-19,50020,Male,Germany,Fall,C011,Windbreaker,Outerwear,XL,Black,2,17.36,34.72
+INV00036,2023-10-18,50039,Female,Australia,Fall,C016,Beanie,Accessories,S,White,2,97.14,194.28
+INV00037,2023-04-06,50005,Female,USA,Spring,C013,Sports Bra,Activewear,XL,White,1,45.79,45.79
+INV00038,2023-07-03,50027,Male,USA,Summer,C012,Leggings,Activewear,XS,Navy,2,103.33,206.66
+INV00039,2023-08-19,50034,Female,Canada,Summer,C001,T‑Shirt,Tops,S,White,2,55.89,111.78
+INV00040,2023-09-23,50015,Female,Germany,Summer,C001,T‑Shirt,Tops,S,Black,1,61.65,61.65
+INV00041,2023-09-27,50016,Female,USA,Summer,C008,Skirt,Bottoms,M,White,2,77.67,155.34
+INV00042,2023-12-08,50024,Female,USA,Fall,C017,Scarf,Accessories,L,Red,3,33.12,99.35999999999999
+INV00043,2023-01-02,50047,Male,Australia,Winter,C015,Cap,Accessories,S,Beige,3,100.45,301.35
+INV00044,2023-10-15,50024,Female,Canada,Fall,C006,Chinos,Bottoms,XS,Green,3,97.18,291.54
+INV00045,2023-07-28,50016,Female,Canada,Summer,C008,Skirt,Bottoms,S,Green,2,86.62,173.24
+INV00046,2023-02-18,50049,Female,Australia,Winter,C015,Cap,Accessories,M,Red,2,105.56,211.12
+INV00047,2023-06-03,50039,Female,Australia,Spring,C017,Scarf,Accessories,L,Red,2,28.86,57.72
+INV00048,2023-06-11,50026,Female,UK,Spring,C003,Blouse,Tops,XS,Green,3,106.05,318.15
+INV00049,2023-09-13,50024,Female,USA,Summer,C002,Sweater,Tops,XS,Black,2,94.11,188.22
+INV00050,2023-12-05,50030,Female,USA,Fall,C015,Cap,Accessories,L,White,1,106.46,106.46
+INV00051,2023-03-06,50006,Female,Australia,Winter,C003,Blouse,Tops,S,Red,3,101.29,303.87
+INV00052,2023-11-11,50021,Male,USA,Fall,C016,Beanie,Accessories,XS,Navy,3,81.31,243.93
+INV00053,2023-09-24,50011,Female,Germany,Summer,C010,Coat,Outerwear,S,Red,2,121.34,242.68
+INV00054,2023-01-28,50021,Male,USA,Winter,C017,Scarf,Accessories,XS,White,1,28.77,28.77
+INV00055,2023-06-06,50007,Female,UK,Spring,C005,Jeans,Bottoms,XS,White,1,64.28,64.28
+INV00056,2023-01-09,50032,Female,USA,Winter,C014,Track Pants,Activewear,M,Navy,3,63.03,189.09
+INV00057,2023-09-05,50018,Female,USA,Summer,C013,Sports Bra,Activewear,M,Green,2,44.79,89.58
+INV00058,2023-04-11,50048,Female,USA,Spring,C005,Jeans,Bottoms,M,Black,1,60.4,60.4
+INV00059,2023-09-12,50000,Male,UK,Summer,C017,Scarf,Accessories,XL,Navy,1,32.1,32.1
+INV00060,2023-11-07,50049,Female,Canada,Fall,C006,Chinos,Bottoms,XL,Navy,1,101.34,101.34
+INV00061,2023-10-26,50008,Male,USA,Fall,C008,Skirt,Bottoms,L,Black,2,89.78,179.56
+INV00062,2023-12-15,50004,Male,Germany,Fall,C014,Track Pants,Activewear,XL,Red,3,60.92,182.76
+INV00063,2023-01-08,50029,Male,UK,Winter,C002,Sweater,Tops,M,Green,2,87.51,175.02
+INV00064,2023-08-30,50030,Female,Canada,Summer,C001,T‑Shirt,Tops,XS,Green,3,58.2,174.60000000000002
+INV00065,2023-05-24,50031,Male,Australia,Spring,C016,Beanie,Accessories,L,Red,2,90.98,181.96
+INV00066,2023-05-09,50013,Male,USA,Spring,C014,Track Pants,Activewear,S,White,3,63.01,189.03
+INV00067,2023-07-30,50009,Male,UK,Summer,C012,Leggings,Activewear,XS,Navy,2,108.62,217.24
+INV00068,2023-08-20,50036,Male,USA,Summer,C008,Skirt,Bottoms,S,Red,1,80.47,80.47
+INV00069,2023-06-26,50001,Female,Canada,Spring,C012,Leggings,Activewear,S,Green,3,96.66,289.98
+INV00070,2023-02-14,50041,Female,USA,Winter,C002,Sweater,Tops,S,Black,1,88.05,88.05
+INV00071,2023-01-10,50022,Male,USA,Winter,C006,Chinos,Bottoms,XL,Red,2,87.56,175.12
+INV00072,2023-10-30,50017,Male,Australia,Fall,C001,T‑Shirt,Tops,XS,White,1,62.4,62.4
+INV00073,2023-06-26,50003,Male,Germany,Spring,C007,Shorts,Bottoms,XL,Red,1,100.36,100.36
+INV00074,2023-05-08,50022,Male,USA,Spring,C017,Scarf,Accessories,L,Green,2,32.57,65.14
+INV00075,2023-01-06,50040,Male,Germany,Winter,C002,Sweater,Tops,L,Red,3,96.66,289.98
+INV00076,2023-05-25,50010,Female,Australia,Spring,C013,Sports Bra,Activewear,S,Red,2,43.84,87.68
+INV00077,2023-01-12,50018,Female,USA,Winter,C011,Windbreaker,Outerwear,M,Navy,2,17.49,34.98
+INV00078,2023-12-29,50045,Female,Canada,Fall,C011,Windbreaker,Outerwear,L,White,2,20.77,41.54
+INV00079,2023-06-10,50014,Female,USA,Spring,C017,Scarf,Accessories,S,White,2,29.6,59.2
+INV00080,2023-10-24,50005,Female,USA,Fall,C009,Jacket,Outerwear,L,Green,2,108.35,216.7
+INV00081,2023-02-06,50008,Male,USA,Winter,C003,Blouse,Tops,XS,Black,2,93.48,186.96
+INV00082,2023-03-11,50009,Male,UK,Winter,C008,Skirt,Bottoms,M,Navy,3,92.38,277.14
+INV00083,2023-12-30,50033,Female,USA,Fall,C016,Beanie,Accessories,L,Black,2,81.73,163.46
+INV00084,2023-04-04,50031,Male,Germany,Spring,C014,Track Pants,Activewear,M,Green,3,66.08,198.24
+INV00085,2023-02-19,50045,Female,Australia,Winter,C007,Shorts,Bottoms,L,Navy,1,102.24,102.24
+INV00086,2023-11-14,50045,Female,USA,Fall,C009,Jacket,Outerwear,M,Red,1,108.26,108.26
+INV00087,2023-08-12,50035,Female,Australia,Summer,C008,Skirt,Bottoms,XS,Beige,1,88.91,88.91
+INV00088,2023-05-16,50019,Male,Germany,Spring,C011,Windbreaker,Outerwear,XL,White,1,18.71,18.71
+INV00089,2023-04-03,50000,Male,Germany,Spring,C010,Coat,Outerwear,L,Beige,2,105.94,211.88
+INV00090,2023-11-11,50013,Male,UK,Fall,C006,Chinos,Bottoms,XL,Beige,3,105.38,316.14
+INV00091,2023-06-28,50015,Female,UK,Spring,C009,Jacket,Outerwear,XS,Red,1,98.59,98.59
+INV00092,2023-06-26,50038,Male,UK,Spring,C007,Shorts,Bottoms,M,Green,1,117.64,117.64
+INV00093,2023-12-01,50008,Male,UK,Fall,C015,Cap,Accessories,XS,Red,1,89.42,89.42
+INV00094,2023-02-17,50043,Female,USA,Winter,C001,T‑Shirt,Tops,M,Black,1,64.69,64.69
+INV00095,2023-05-07,50028,Female,UK,Spring,C001,T‑Shirt,Tops,L,Navy,2,63.53,127.06
+INV00096,2023-07-31,50025,Male,Canada,Summer,C008,Skirt,Bottoms,XS,Navy,2,86.41,172.82
+INV00097,2023-04-16,50021,Male,USA,Spring,C001,T‑Shirt,Tops,L,Beige,2,61.44,122.88
+INV00098,2023-03-19,50039,Female,UK,Winter,C004,Hoodie,Tops,XS,Green,1,76.55,76.55
+INV00099,2023-01-25,50015,Female,Germany,Winter,C017,Scarf,Accessories,S,White,2,32.86,65.72
+INV00100,2023-03-09,50033,Female,USA,Winter,C001,T‑Shirt,Tops,L,Navy,1,58.29,58.29
+INV00101,2023-02-19,50010,Female,USA,Winter,C009,Jacket,Outerwear,M,Navy,2,102.28,204.56
+INV00102,2023-02-03,50031,Male,Germany,Winter,C003,Blouse,Tops,S,Beige,3,107.31,321.93
+INV00103,2023-11-28,50003,Male,USA,Fall,C007,Shorts,Bottoms,XS,Black,3,105.83,317.49
+INV00104,2023-12-14,50012,Female,UK,Fall,C003,Blouse,Tops,M,Black,2,98.9,197.8
+INV00105,2023-03-10,50048,Female,Germany,Winter,C017,Scarf,Accessories,S,Red,2,30.88,61.76
+INV00106,2023-08-19,50017,Male,USA,Summer,C014,Track Pants,Activewear,L,Navy,1,70.38,70.38
+INV00107,2023-04-06,50021,Male,USA,Spring,C014,Track Pants,Activewear,XL,Beige,2,61.7,123.4
+INV00108,2023-05-06,50024,Female,USA,Spring,C005,Jeans,Bottoms,L,Black,3,66.21,198.63
+INV00109,2023-09-09,50024,Female,USA,Summer,C016,Beanie,Accessories,M,Beige,2,86.87,173.74
+INV00110,2023-03-03,50003,Male,UK,Winter,C008,Skirt,Bottoms,XS,Green,1,86.3,86.3
+INV00111,2023-12-17,50037,Male,Australia,Fall,C015,Cap,Accessories,M,White,2,102.1,204.2
+INV00112,2023-03-20,50028,Female,Germany,Winter,C017,Scarf,Accessories,S,Black,1,29.86,29.86
+INV00113,2023-12-31,50034,Female,UK,Fall,C008,Skirt,Bottoms,XL,Black,1,80.53,80.53
+INV00114,2023-03-18,50003,Male,Canada,Winter,C008,Skirt,Bottoms,L,White,1,81.54,81.54
+INV00115,2023-05-03,50019,Male,Australia,Spring,C004,Hoodie,Tops,XS,Beige,1,72.21,72.21
+INV00116,2023-12-20,50031,Male,Germany,Fall,C017,Scarf,Accessories,S,Beige,1,27.86,27.86
+INV00117,2023-01-09,50049,Female,Canada,Winter,C001,T‑Shirt,Tops,M,Black,3,57.39,172.17000000000002
+INV00118,2023-06-30,50038,Male,Germany,Spring,C010,Coat,Outerwear,S,Black,1,106.58,106.58
+INV00119,2023-04-05,50021,Male,Germany,Spring,C014,Track Pants,Activewear,XS,Beige,1,67.61,67.61
+INV00120,2023-12-20,50012,Female,UK,Fall,C017,Scarf,Accessories,L,Navy,3,31.36,94.08
+INV00121,2023-07-27,50022,Male,USA,Summer,C010,Coat,Outerwear,S,Black,2,120.55,241.1
+INV00122,2023-07-04,50009,Male,USA,Summer,C002,Sweater,Tops,XL,Beige,3,104.93,314.79
+INV00123,2023-07-01,50039,Female,USA,Summer,C017,Scarf,Accessories,M,Navy,1,31.16,31.16
+INV00124,2023-02-04,50026,Female,Australia,Winter,C016,Beanie,Accessories,M,White,3,95.68,287.04
+INV00125,2023-09-26,50041,Female,Germany,Summer,C015,Cap,Accessories,L,Navy,3,105.08,315.24
+INV00126,2023-09-18,50041,Female,UK,Summer,C011,Windbreaker,Outerwear,M,Beige,2,19.52,39.04
+INV00127,2023-02-14,50030,Female,Canada,Winter,C004,Hoodie,Tops,L,Red,1,68.28,68.28
+INV00128,2023-11-08,50024,Female,UK,Fall,C003,Blouse,Tops,M,Black,2,104.84,209.68
+INV00129,2023-10-04,50006,Female,USA,Fall,C006,Chinos,Bottoms,S,Black,3,93.75,281.25
+INV00130,2023-10-27,50046,Male,UK,Fall,C014,Track Pants,Activewear,M,Beige,1,66.56,66.56
+INV00131,2023-10-02,50026,Female,USA,Fall,C003,Blouse,Tops,M,Green,3,97.26,291.78000000000003
+INV00132,2023-07-04,50040,Male,UK,Summer,C001,T‑Shirt,Tops,XS,Navy,1,57.34,57.34
+INV00133,2023-05-30,50042,Female,Canada,Spring,C009,Jacket,Outerwear,XL,Black,3,91.14,273.42
+INV00134,2023-05-02,50037,Male,UK,Spring,C007,Shorts,Bottoms,S,White,3,99.62,298.86
+INV00135,2023-01-19,50018,Female,USA,Winter,C012,Leggings,Activewear,M,Navy,2,101.29,202.58
+INV00136,2023-12-26,50027,Male,USA,Fall,C001,T‑Shirt,Tops,XL,Black,2,56.72,113.44
+INV00137,2023-09-05,50008,Male,USA,Summer,C012,Leggings,Activewear,S,Beige,2,111.46,222.92
+INV00138,2023-01-06,50013,Male,Australia,Winter,C002,Sweater,Tops,S,White,2,92.42,184.84
+INV00139,2023-05-14,50028,Female,UK,Spring,C015,Cap,Accessories,XS,White,2,102.25,204.5
+INV00140,2023-11-23,50023,Male,USA,Fall,C004,Hoodie,Tops,L,Green,2,72.77,145.54
+INV00141,2023-06-07,50035,Female,Canada,Spring,C011,Windbreaker,Outerwear,S,Red,2,19.98,39.96
+INV00142,2023-09-04,50043,Female,USA,Summer,C003,Blouse,Tops,XL,White,3,103.99,311.96999999999997
+INV00143,2023-03-10,50023,Male,USA,Winter,C007,Shorts,Bottoms,XS,Beige,3,108.54,325.62
+INV00144,2023-08-27,50018,Female,Australia,Summer,C011,Windbreaker,Outerwear,XS,Green,1,20.05,20.05
+INV00145,2023-04-13,50011,Female,UK,Spring,C015,Cap,Accessories,S,Black,3,106.11,318.33
+INV00146,2023-07-25,50011,Female,Canada,Summer,C015,Cap,Accessories,XL,Red,1,90.94,90.94
+INV00147,2023-11-07,50046,Male,USA,Fall,C015,Cap,Accessories,XL,White,3,94.27,282.81
+INV00148,2023-03-30,50039,Female,UK,Winter,C008,Skirt,Bottoms,S,Black,1,87.55,87.55
+INV00149,2023-04-02,50015,Female,USA,Spring,C011,Windbreaker,Outerwear,M,Green,1,20.94,20.94
+INV00150,2023-01-17,50011,Female,USA,Winter,C014,Track Pants,Activewear,XL,Green,1,60.36,60.36
+INV00151,2023-05-14,50008,Male,USA,Spring,C013,Sports Bra,Activewear,XS,White,2,43.02,86.04
+INV00152,2023-04-15,50001,Female,Germany,Spring,C009,Jacket,Outerwear,L,Navy,1,90.51,90.51
+INV00153,2023-04-04,50004,Male,Canada,Spring,C010,Coat,Outerwear,S,Black,2,123.47,246.94
+INV00154,2023-03-15,50042,Female,Australia,Winter,C011,Windbreaker,Outerwear,S,Beige,1,18.54,18.54
+INV00155,2023-07-03,50049,Female,UK,Summer,C015,Cap,Accessories,XS,Beige,1,99.76,99.76
+INV00156,2023-10-23,50037,Male,USA,Fall,C004,Hoodie,Tops,S,Navy,2,64.18,128.36
+INV00157,2023-07-26,50030,Female,Canada,Summer,C016,Beanie,Accessories,M,Navy,3,95.74,287.21999999999997
+INV00158,2023-07-10,50012,Female,Australia,Summer,C011,Windbreaker,Outerwear,L,White,3,17.54,52.62
+INV00159,2023-02-07,50044,Male,Germany,Winter,C002,Sweater,Tops,S,White,2,90.91,181.82
+INV00160,2023-12-09,50037,Male,USA,Fall,C011,Windbreaker,Outerwear,M,Green,1,17.47,17.47
+INV00161,2023-08-30,50005,Female,UK,Summer,C011,Windbreaker,Outerwear,XS,Beige,3,17.74,53.22
+INV00162,2023-10-30,50003,Male,Germany,Fall,C017,Scarf,Accessories,XS,Beige,2,31.49,62.98
+INV00163,2023-09-23,50014,Female,Australia,Summer,C013,Sports Bra,Activewear,M,Navy,3,42.06,126.18
+INV00164,2023-06-13,50005,Female,Australia,Spring,C009,Jacket,Outerwear,XL,Red,2,98.86,197.72
+INV00165,2023-01-16,50012,Female,Australia,Winter,C012,Leggings,Activewear,XS,Beige,1,109.78,109.78
+INV00166,2023-06-10,50024,Female,Germany,Spring,C017,Scarf,Accessories,M,Red,3,30.35,91.05000000000001
+INV00167,2023-12-22,50022,Male,Australia,Fall,C009,Jacket,Outerwear,M,Beige,3,96.2,288.6
+INV00168,2023-07-18,50016,Female,UK,Summer,C005,Jeans,Bottoms,XS,Green,1,69.15,69.15
+INV00169,2023-08-01,50023,Male,USA,Summer,C017,Scarf,Accessories,S,Navy,2,32.3,64.6
+INV00170,2023-02-03,50033,Female,Canada,Winter,C006,Chinos,Bottoms,L,Navy,3,90.73,272.19
+INV00171,2023-01-22,50032,Female,Australia,Winter,C011,Windbreaker,Outerwear,S,Beige,2,20.37,40.74
+INV00172,2023-11-19,50047,Male,USA,Fall,C013,Sports Bra,Activewear,XS,Navy,1,43.03,43.03
+INV00173,2023-09-25,50000,Male,Australia,Summer,C013,Sports Bra,Activewear,XS,Green,3,40.1,120.30000000000001
+INV00174,2023-10-31,50026,Female,Canada,Fall,C004,Hoodie,Tops,S,Red,1,68.25,68.25
+INV00175,2023-05-20,50023,Male,USA,Spring,C013,Sports Bra,Activewear,S,Beige,2,41.11,82.22
+INV00176,2023-02-06,50047,Male,Australia,Winter,C007,Shorts,Bottoms,XS,Red,3,113.18,339.54
+INV00177,2023-08-26,50009,Male,USA,Summer,C013,Sports Bra,Activewear,M,Red,1,43.24,43.24
+INV00178,2023-06-21,50019,Male,Germany,Spring,C003,Blouse,Tops,XL,Beige,2,104.49,208.98
+INV00179,2023-09-11,50041,Female,Australia,Summer,C017,Scarf,Accessories,L,Beige,3,33.28,99.84
+INV00180,2023-07-19,50003,Male,USA,Summer,C006,Chinos,Bottoms,M,Navy,3,96.0,288.0
+INV00181,2023-11-06,50041,Female,USA,Fall,C017,Scarf,Accessories,S,Black,1,29.12,29.12
+INV00182,2023-09-21,50007,Female,USA,Summer,C004,Hoodie,Tops,L,Black,3,71.31,213.93
+INV00183,2023-05-07,50010,Female,USA,Spring,C005,Jeans,Bottoms,XL,Navy,3,63.67,191.01
+INV00184,2023-10-03,50018,Female,UK,Fall,C014,Track Pants,Activewear,XS,Red,2,65.57,131.14
+INV00185,2023-12-09,50025,Male,USA,Fall,C009,Jacket,Outerwear,L,Black,3,97.56,292.68
+INV00186,2023-10-29,50027,Male,USA,Fall,C005,Jeans,Bottoms,L,Black,3,62.09,186.27
+INV00187,2023-08-16,50021,Male,USA,Summer,C002,Sweater,Tops,L,White,2,92.68,185.36
+INV00188,2023-12-04,50044,Male,Germany,Fall,C004,Hoodie,Tops,L,Green,2,75.63,151.26
+INV00189,2023-02-03,50009,Male,UK,Winter,C015,Cap,Accessories,L,Red,2,100.46,200.92
+INV00190,2023-09-22,50015,Female,Germany,Summer,C004,Hoodie,Tops,XL,White,2,73.87,147.74
+INV00191,2023-07-27,50019,Male,Germany,Summer,C007,Shorts,Bottoms,S,Black,1,106.76,106.76
+INV00192,2023-10-02,50011,Female,USA,Fall,C008,Skirt,Bottoms,M,Black,2,83.72,167.44
+INV00193,2023-03-23,50020,Male,Australia,Winter,C002,Sweater,Tops,L,Navy,3,89.58,268.74
+INV00194,2023-04-14,50030,Female,Germany,Spring,C014,Track Pants,Activewear,S,White,2,64.8,129.6
+INV00195,2023-03-14,50006,Female,Australia,Winter,C007,Shorts,Bottoms,XL,Green,1,108.96,108.96
+INV00196,2023-06-02,50034,Female,USA,Spring,C005,Jeans,Bottoms,XL,Beige,3,59.85,179.55
+INV00197,2023-09-26,50043,Female,UK,Summer,C017,Scarf,Accessories,XL,White,3,28.88,86.64
+INV00198,2023-06-27,50013,Male,USA,Spring,C005,Jeans,Bottoms,M,White,2,61.91,123.82
+INV00199,2023-08-15,50026,Female,USA,Summer,C012,Leggings,Activewear,XL,White,2,114.47,228.94
+INV00200,2023-07-15,50022,Male,Germany,Summer,C009,Jacket,Outerwear,XS,Green,2,105.08,210.16
+INV00201,2023-05-05,50025,Male,Canada,Spring,C003,Blouse,Tops,L,Black,3,104.17,312.51
+INV00202,2023-04-07,50016,Female,UK,Spring,C016,Beanie,Accessories,XL,Beige,1,90.85,90.85
+INV00203,2023-08-07,50021,Male,Germany,Summer,C009,Jacket,Outerwear,XS,Navy,3,106.68,320.04
+INV00204,2023-12-04,50036,Male,Canada,Fall,C004,Hoodie,Tops,M,Black,3,63.49,190.47
+INV00205,2023-07-23,50037,Male,USA,Summer,C003,Blouse,Tops,M,Navy,2,92.06,184.12
+INV00206,2023-05-10,50021,Male,USA,Spring,C002,Sweater,Tops,XS,Beige,2,95.53,191.06
+INV00207,2023-10-21,50031,Male,Germany,Fall,C010,Coat,Outerwear,M,Red,1,119.88,119.88
+INV00208,2023-10-21,50039,Female,USA,Fall,C012,Leggings,Activewear,M,Navy,2,106.32,212.64
+INV00209,2023-12-14,50032,Female,UK,Fall,C010,Coat,Outerwear,XS,White,1,124.86,124.86
+INV00210,2023-07-31,50010,Female,Australia,Summer,C012,Leggings,Activewear,L,Red,3,116.65,349.95000000000005
+INV00211,2023-02-13,50046,Male,UK,Winter,C008,Skirt,Bottoms,M,Beige,1,92.77,92.77
+INV00212,2023-06-28,50008,Male,Germany,Spring,C011,Windbreaker,Outerwear,S,Black,3,20.5,61.5
+INV00213,2023-12-07,50042,Female,Australia,Fall,C016,Beanie,Accessories,XL,White,1,86.37,86.37
+INV00214,2023-07-14,50025,Male,USA,Summer,C016,Beanie,Accessories,M,Beige,3,93.09,279.27
+INV00215,2023-04-22,50020,Male,USA,Spring,C005,Jeans,Bottoms,S,White,2,57.67,115.34
+INV00216,2023-05-17,50004,Male,USA,Spring,C005,Jeans,Bottoms,S,Green,3,67.42,202.26
+INV00217,2023-09-08,50029,Male,UK,Summer,C006,Chinos,Bottoms,XL,Red,2,93.3,186.6
+INV00218,2023-03-04,50001,Female,Canada,Winter,C005,Jeans,Bottoms,S,Beige,1,59.51,59.51
+INV00219,2023-03-26,50020,Male,UK,Winter,C016,Beanie,Accessories,S,Navy,1,91.19,91.19
+INV00220,2023-11-10,50018,Female,Germany,Fall,C017,Scarf,Accessories,L,Beige,1,31.12,31.12
+INV00221,2023-06-10,50029,Male,Germany,Spring,C014,Track Pants,Activewear,L,Black,1,63.77,63.77
+INV00222,2023-09-12,50022,Male,USA,Summer,C003,Blouse,Tops,XS,Red,3,100.1,300.29999999999995
+INV00223,2023-08-26,50008,Male,USA,Summer,C005,Jeans,Bottoms,M,Black,2,67.63,135.26
+INV00224,2023-11-19,50030,Female,USA,Fall,C015,Cap,Accessories,M,Beige,3,94.95,284.85
+INV00225,2023-07-15,50022,Male,UK,Summer,C014,Track Pants,Activewear,M,Black,3,65.65,196.95000000000002
+INV00226,2023-01-29,50006,Female,Germany,Winter,C008,Skirt,Bottoms,L,Green,2,86.82,173.64
+INV00227,2023-07-01,50026,Female,USA,Summer,C015,Cap,Accessories,XL,White,1,94.96,94.96
+INV00228,2023-03-21,50018,Female,Australia,Winter,C015,Cap,Accessories,M,White,2,98.44,196.88
+INV00229,2023-04-13,50038,Male,USA,Spring,C003,Blouse,Tops,XL,Green,2,94.16,188.32
+INV00230,2023-11-26,50013,Male,Germany,Fall,C016,Beanie,Accessories,S,Black,1,88.72,88.72
+INV00231,2023-12-28,50016,Female,USA,Fall,C009,Jacket,Outerwear,XS,White,1,94.74,94.74
+INV00232,2023-02-11,50048,Female,USA,Winter,C008,Skirt,Bottoms,XS,Green,1,82.63,82.63
+INV00233,2023-10-20,50039,Female,Germany,Fall,C007,Shorts,Bottoms,S,Red,1,113.88,113.88
+INV00234,2023-09-26,50025,Male,USA,Summer,C014,Track Pants,Activewear,M,Navy,1,71.28,71.28
+INV00235,2023-12-21,50005,Female,UK,Fall,C014,Track Pants,Activewear,S,Beige,3,69.28,207.84
+INV00236,2023-06-14,50006,Female,UK,Spring,C015,Cap,Accessories,XL,Black,1,104.47,104.47
+INV00237,2023-12-09,50035,Female,USA,Fall,C017,Scarf,Accessories,XL,Beige,2,30.65,61.3
+INV00238,2023-07-17,50030,Female,Australia,Summer,C007,Shorts,Bottoms,S,Black,3,113.99,341.96999999999997
+INV00239,2023-03-01,50016,Female,Canada,Winter,C007,Shorts,Bottoms,M,White,2,118.88,237.76
+INV00240,2023-12-02,50003,Male,USA,Fall,C005,Jeans,Bottoms,S,Green,3,60.58,181.74
+INV00241,2023-05-12,50012,Female,USA,Spring,C016,Beanie,Accessories,M,Navy,1,96.92,96.92
+INV00242,2023-06-15,50023,Male,Canada,Spring,C015,Cap,Accessories,M,Navy,3,93.11,279.33
+INV00243,2023-03-28,50032,Female,Australia,Winter,C008,Skirt,Bottoms,M,Navy,1,82.46,82.46
+INV00244,2023-06-24,50012,Female,UK,Spring,C011,Windbreaker,Outerwear,L,White,2,19.46,38.92
+INV00245,2023-01-15,50013,Male,UK,Winter,C004,Hoodie,Tops,XS,Red,1,68.52,68.52
+INV00246,2023-05-28,50016,Female,Germany,Spring,C012,Leggings,Activewear,M,Navy,2,108.22,216.44
+INV00247,2023-06-28,50024,Female,Germany,Spring,C005,Jeans,Bottoms,M,Red,3,69.65,208.95000000000002
+INV00248,2023-12-31,50019,Male,Germany,Fall,C017,Scarf,Accessories,XL,Green,1,30.23,30.23
+INV00249,2023-10-21,50042,Female,UK,Fall,C003,Blouse,Tops,XS,White,3,97.93,293.79
+INV00250,2023-11-10,50027,Male,Australia,Fall,C011,Windbreaker,Outerwear,L,White,2,20.85,41.7
+INV00251,2023-12-10,50013,Male,Australia,Fall,C009,Jacket,Outerwear,XS,Red,3,101.42,304.26
+INV00252,2023-03-11,50019,Male,UK,Winter,C014,Track Pants,Activewear,XS,Red,3,62.86,188.57999999999998
+INV00253,2023-08-05,50041,Female,USA,Summer,C009,Jacket,Outerwear,M,White,3,105.65,316.95000000000005
+INV00254,2023-09-25,50032,Female,UK,Summer,C003,Blouse,Tops,XS,Green,1,104.56,104.56
+INV00255,2023-01-27,50008,Male,Canada,Winter,C012,Leggings,Activewear,XL,Black,2,112.26,224.52
+INV00256,2023-10-18,50031,Male,UK,Fall,C006,Chinos,Bottoms,XS,Black,2,92.63,185.26
+INV00257,2023-03-22,50008,Male,USA,Winter,C007,Shorts,Bottoms,S,Beige,3,101.14,303.42
+INV00258,2023-10-25,50022,Male,USA,Fall,C009,Jacket,Outerwear,XS,Navy,1,100.05,100.05
+INV00259,2023-12-06,50002,Male,USA,Fall,C001,T‑Shirt,Tops,L,Red,2,56.54,113.08
+INV00260,2023-10-18,50021,Male,Canada,Fall,C008,Skirt,Bottoms,M,Navy,2,88.33,176.66
+INV00261,2023-11-27,50034,Female,USA,Fall,C008,Skirt,Bottoms,XL,Navy,2,84.78,169.56
+INV00262,2023-11-21,50038,Male,USA,Fall,C012,Leggings,Activewear,XL,Black,1,111.45,111.45
+INV00263,2023-07-15,50022,Male,Germany,Summer,C006,Chinos,Bottoms,L,Red,3,100.15,300.45000000000005
+INV00264,2023-01-05,50020,Male,USA,Winter,C017,Scarf,Accessories,L,Green,3,29.26,87.78
+INV00265,2023-04-15,50045,Female,Australia,Spring,C002,Sweater,Tops,L,Red,2,89.05,178.1
+INV00266,2023-05-16,50026,Female,USA,Spring,C011,Windbreaker,Outerwear,S,Beige,2,21.08,42.16
+INV00267,2023-08-23,50020,Male,Canada,Summer,C015,Cap,Accessories,L,Black,3,89.09,267.27
+INV00268,2023-11-11,50014,Female,Canada,Fall,C004,Hoodie,Tops,S,Black,2,68.3,136.6
+INV00269,2023-04-23,50048,Female,Germany,Spring,C010,Coat,Outerwear,L,White,3,114.32,342.96
+INV00270,2023-09-16,50011,Female,Australia,Summer,C007,Shorts,Bottoms,S,Navy,2,107.87,215.74
+INV00271,2023-10-23,50024,Female,Australia,Fall,C010,Coat,Outerwear,XL,Navy,3,119.6,358.79999999999995
+INV00272,2023-11-27,50014,Female,UK,Fall,C003,Blouse,Tops,XL,Green,1,107.14,107.14
+INV00273,2023-03-14,50033,Female,Germany,Winter,C008,Skirt,Bottoms,XS,White,1,90.86,90.86
+INV00274,2023-12-16,50027,Male,USA,Fall,C012,Leggings,Activewear,XS,Red,1,112.87,112.87
+INV00275,2023-01-05,50048,Female,UK,Winter,C004,Hoodie,Tops,M,Red,2,68.19,136.38
+INV00276,2023-01-01,50035,Female,Germany,Winter,C015,Cap,Accessories,M,White,3,105.81,317.43
+INV00277,2023-06-30,50044,Male,Australia,Spring,C001,T‑Shirt,Tops,L,Red,1,65.03,65.03
+INV00278,2023-04-24,50030,Female,Germany,Spring,C016,Beanie,Accessories,S,White,2,87.03,174.06
+INV00279,2023-01-21,50012,Female,USA,Winter,C013,Sports Bra,Activewear,XL,Red,1,40.41,40.41
+INV00280,2023-05-05,50010,Female,Australia,Spring,C011,Windbreaker,Outerwear,S,White,3,18.82,56.46
+INV00281,2023-02-01,50015,Female,UK,Winter,C005,Jeans,Bottoms,XL,Navy,2,64.71,129.42
+INV00282,2023-02-19,50033,Female,UK,Winter,C016,Beanie,Accessories,M,White,3,84.46,253.38
+INV00283,2023-08-23,50022,Male,Australia,Summer,C016,Beanie,Accessories,XS,Navy,1,95.39,95.39
+INV00284,2023-05-31,50003,Male,USA,Spring,C012,Leggings,Activewear,M,White,3,112.54,337.62
+INV00285,2023-06-08,50039,Female,USA,Spring,C010,Coat,Outerwear,S,Green,2,116.46,232.92
+INV00286,2023-04-25,50018,Female,USA,Spring,C004,Hoodie,Tops,S,Navy,1,75.26,75.26
+INV00287,2023-11-17,50010,Female,USA,Fall,C017,Scarf,Accessories,XS,Beige,1,28.7,28.7
+INV00288,2023-06-12,50016,Female,UK,Spring,C001,T‑Shirt,Tops,S,Black,2,59.1,118.2
+INV00289,2023-03-26,50046,Male,Germany,Winter,C013,Sports Bra,Activewear,L,Navy,3,40.75,122.25
+INV00290,2023-03-21,50013,Male,USA,Winter,C015,Cap,Accessories,S,White,2,99.16,198.32
+INV00291,2023-01-01,50032,Female,Germany,Winter,C012,Leggings,Activewear,S,Black,2,103.0,206.0
+INV00292,2023-08-15,50014,Female,UK,Summer,C004,Hoodie,Tops,M,Green,3,66.19,198.57
+INV00293,2023-06-13,50047,Male,USA,Spring,C017,Scarf,Accessories,S,Green,3,27.84,83.52
+INV00294,2023-04-30,50000,Male,Germany,Spring,C014,Track Pants,Activewear,XS,Black,1,71.36,71.36
+INV00295,2023-04-29,50012,Female,Australia,Spring,C003,Blouse,Tops,XS,White,2,104.86,209.72
+INV00296,2023-06-06,50040,Male,USA,Spring,C011,Windbreaker,Outerwear,L,Red,3,18.6,55.800000000000004
+INV00297,2023-10-19,50046,Male,USA,Fall,C008,Skirt,Bottoms,S,Beige,1,84.3,84.3
+INV00298,2023-12-08,50040,Male,USA,Fall,C007,Shorts,Bottoms,M,White,3,109.48,328.44
+INV00299,2023-06-23,50043,Female,Australia,Spring,C016,Beanie,Accessories,M,Beige,2,82.22,164.44
+INV00300,2023-12-11,50000,Male,USA,Fall,C004,Hoodie,Tops,S,Navy,1,68.11,68.11
